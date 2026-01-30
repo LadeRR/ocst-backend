@@ -1,23 +1,12 @@
 {
   "name": "mobile",
   "version": "1.0.0",
-  "description": "",
-  "main": "script.js",
+  "description": "OCST Mobil Arayüz",
+  "main": "index.html",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "echo 'Static HTML/JS site - Deploy directly to Render or Netlify'"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "react": "^19.2.4",
-    "react-dom": "^19.2.4"
-  },
-  "devDependencies": {
-    "@vitejs/plugin-react": "^5.1.2",
-    "vite": "^7.3.1"
-  }
+  "keywords": ["ocst", "mobile", "dispatch"],
+  "author": "LadeRR",
+  "license": "ISC"
 }
